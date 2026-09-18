@@ -1,8 +1,9 @@
 # Medicine Companion
 
 **A medication-literacy app for patients managing multiple prescriptions —
-built to catch dangerous overlaps (like two brands unknowingly sharing the
-same active ingredient) before they reach a doctor, and to explain
+Patients often struggle to manage their medications prescribed by multiple physicians.
+This app is built to catch dangerous overlaps (like two brands unknowingly sharing the
+same active ingredient or potential drug interactions), and to explain
 medicines in plain, non-clinical language for elderly and low-literacy
 users.**
 
